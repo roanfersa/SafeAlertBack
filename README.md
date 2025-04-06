@@ -27,7 +27,7 @@ Backend do sistema SafeAlert, uma plataforma inteligente de monitoramento, previ
 
 1. Clone o repositório
 ```bash
-git clone [url-do-repositorio]
+git clone git@github.com:roanfersa/SafeAlertBack.git
 cd safealert-back
 ```
 
